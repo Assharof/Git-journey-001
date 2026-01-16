@@ -1,0 +1,41 @@
+body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: normal;
+      }
+      h1,h2  
+
+
+         .underline {
+        text-decoration: underline;
+
+      }
+        p.para1 {
+        color: rgb(0, 42, 255);
+        font-size: 25;
+     font-style: normal;
+       
+      }
+
+      p.para2 {
+        color: rgb(0, 255, 51);
+        font-size: 40;
+        font-style: italic;
+       
+      }
+     
+      p.para3 {
+        color: rgb(0, 255, 183);
+        font-size: 25;
+        font-style: oblique;
+       
+      }
+      
+      h2 {
+        border-bottom: 1px solid black;
+      }
+
+
+      .underline {
+        text-decoration: underline;
+
+      }
